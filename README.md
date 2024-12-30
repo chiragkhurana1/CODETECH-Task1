@@ -46,3 +46,8 @@ Step 8: Deploy the Model
 	•	NumPy: For numerical computations.
 	•	Matplotlib/Seaborn: For data visualization.
 	•	Scikit-learn: For implementing K-Means and evaluating clusters.
+
+
+
+<img width="687" alt="Screenshot 2024-12-30 at 10 17 44 PM" src="https://github.com/user-attachments/assets/eb96ea60-41fd-4e5c-95be-1a6cc75eda23" />
+
